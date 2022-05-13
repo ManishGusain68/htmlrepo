@@ -1,0 +1,18 @@
+p {
+    color :red;
+    text-align: center;
+    background-color: bisque;
+}
+#h11 {
+    text-align: center;
+}
+
+.about{
+    color: blue;
+    text-align: center;
+}
+body{
+    background-position:center;
+   background-image: url("image/srm.jpg");
+   background-repeat: no-repeat;
+}
